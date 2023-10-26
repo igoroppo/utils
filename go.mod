@@ -1,3 +1,3 @@
-module github.com/igoroppo/utils
+module github.com/igoroppo/utils/v2
 
 go 1.21.1
